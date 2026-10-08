@@ -1,0 +1,6 @@
+{
+  "name": "LocalSheet Analytics",
+  "description": "Air-gapped, 100% offline Mac Excel folder & dataset analyzer with automated executive summaries, uniformity validation, and statistical highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
